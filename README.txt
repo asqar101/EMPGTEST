@@ -8,3 +8,5 @@ PS: Logs are maintaining in the Folder "log"
 
 
 Purpose: Product Category and Prices within the given range will be validated
+
+We can also use TestNG annotations.
