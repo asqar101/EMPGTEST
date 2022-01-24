@@ -1,6 +1,6 @@
 For Running the Test Cases:
 
-1: Go to src/test/java2
+1: Go to src/test/java
 2: Go to Package TestCase
 3: Go to Class EMPGTest and run as java application
 
